@@ -1,0 +1,8 @@
+[run]
+build = "npm run build"
+
+[gptengineer-app]
+project_id = "86081b7f-e19d-43b3-9704-505251c2c191"
+
+[[gptengineer-app.openapi]]
+url = "https://backengine-e05v.fly.dev/docs/json"
